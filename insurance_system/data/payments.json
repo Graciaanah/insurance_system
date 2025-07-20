@@ -1,0 +1,18 @@
+[
+    {
+        "payment_id": "PMT001",
+        "holder_id": "PH001",
+        "product_id": "PRD001",
+        "amount": 1200,
+        "due_date": "2025-07-20",
+        "paid": true
+    },
+    {
+        "payment_id": "PMT002",
+        "holder_id": "PH002",
+        "product_id": "PRD001",
+        "amount": 1200,
+        "due_date": "2025-07-20",
+        "paid": true
+    }
+]

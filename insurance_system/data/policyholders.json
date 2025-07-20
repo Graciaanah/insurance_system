@@ -1,0 +1,12 @@
+[
+    {
+        "holder_id": "PH001",
+        "name": "Alice",
+        "active": true
+    },
+    {
+        "holder_id": "PH002",
+        "name": "Bob",
+        "active": true
+    }
+]
